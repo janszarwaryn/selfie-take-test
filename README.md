@@ -1,5 +1,7 @@
 # Selfie Take Test
 
+![img.png](img.png)
+
 Simple app to take profile photo using device camera.
 
 Tested on iPhone 15 Pro and Samsung Galaxy S24 Ultra, works fine on both.
