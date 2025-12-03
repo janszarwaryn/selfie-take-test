@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SelfieTakeTest</string>
+    <string name="title_activity_main">SelfieTakeTest</string>
+    <string name="package_name">com.selfie.taketest</string>
+    <string name="custom_url_scheme">com.selfie.taketest</string>
+</resources>
