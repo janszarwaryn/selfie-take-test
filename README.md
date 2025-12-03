@@ -1,6 +1,6 @@
 # Selfie Take Test
 
-![img.png](img.png)
+<img src="img.png" width="200" alt="App screenshot">
 
 Simple app to take profile photo using device camera.
 
