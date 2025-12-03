@@ -1,8 +1,32 @@
 # Selfie Take Test
 
-Profile photo app with native camera.
+Simple app to take profile photo using device camera.
 
-Next.js 15 + Capacitor 7 + React 19 + TypeScript
+Tested on iPhone 15 Pro and Samsung Galaxy S24 Ultra, works fine on both.
+
+## What you see
+
+Main screen has a circle avatar placeholder in the center, and a blue "Take profile photo" button below. When you take a photo it shows up in the avatar. There's also a "Remove photo" button that appears after you take a photo.
+
+## How it works
+
+1. Tap the button
+2. App asks for camera permission (first time only)
+3. camera opens
+4. Take a photo
+5. Photo appears in the avatar
+
+If you deny camera access or cancel, app shows an alert with error message.
+
+## Accessibility
+
+Buttons have aria-labels for screen readers. UI has good contrast and touch targets are big enough for easy tapping.
+
+## Stack
+
+Next.js 15, Capacitor 7, React 19, TypeScript, Tailwind CSS
+
+---
 
 ## Quick Start
 
